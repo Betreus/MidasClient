@@ -1,6 +1,9 @@
 {
   "leyons": {
     "skin": "https://i.imgur.com/jVk73g1.png",
-    "cape": "https://i.imgur.com/q9xFwcG.png"
+    "cape": "https://i.imgur.com/q9xFwcG.png",
+    "owner": true,
+    "special": true,
+    "cape": true
   }
 }
